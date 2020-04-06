@@ -1,1 +1,1 @@
-puts("Hello World!")
+lputs("Hello World!")
